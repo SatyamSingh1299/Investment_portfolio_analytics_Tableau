@@ -40,8 +40,8 @@ The fund selects investments based on a combination of three key financial metri
 
 #### 1. **Top Growth % (Adjustable)**
 - **Type:** Integer Parameter
-- **Default:** 20% (top quintile)
-- **Purpose:** Sets the percentile threshold for growth rate filtering
+- **Default:** 20 (top #n)
+- **Purpose:** Shows the top n companies  
 - **Usage:** Allows users to adjust strictness of growth criteria
 
 #### 2. **High Revenue Cutoff**
@@ -203,6 +203,7 @@ Instead of manually reviewing 1,000 startup profiles, the Board can now:
 **View Interactive Dashboard:** [Tableau Public Link](https://public.tableau.com/app/profile/satyam.singh7169/viz/BestInvestmentOpportunities_16839540822980/Dashboard1)
 
 ---
+
 
 
 
