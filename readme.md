@@ -161,7 +161,7 @@ The fund selects investments based on a combination of three key financial metri
    - Export qualifying companies for detailed due diligence
 
 ---
-https://github.com/SatyamSingh1299/Investment_portfolio_analytics_Tableau/blob/main/img1.png
+<p  align="center"><img width="80%" src=https://github.com/SatyamSingh1299/Investment_portfolio_analytics_Tableau/blob/main/img1.png" /></a></p> 
 
 ## 🎓 Tableau Skills Demonstrated
 
@@ -203,6 +203,7 @@ Instead of manually reviewing 1,000 startup profiles, the Board can now:
 **View Interactive Dashboard:** [Tableau Public Link](https://public.tableau.com/app/profile/satyam.singh7169/viz/BestInvestmentOpportunities_16839540822980/Dashboard1)
 
 ---
+
 
 
 
